@@ -8,3 +8,6 @@ Um Projeto de Frontend Mentor do huddle landing page com seção introdutória �
 - HTML 
 - CSS
 - Flexbox
+
+## Link
+- URL do site ativo: [Social Links Profile](https://kauannkelvinn.github.io/social-links-profile/)
